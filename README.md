@@ -7,5 +7,5 @@ This project aims to create a text-generation model using the GPT-2 architecture
 
 Our goal is to develop a text-generation model that can generate Thai text with its corresponding Chinese translation. The project consists of a model source code and dataset that will be used to train the GPT-2 language model.
 
-The model will be trained to generate text in both Thai and Chinese, with the Thai text being the primary language and the Chinese text being the translation. By achieving this goal, we hope to improve communication and understanding between Thai and Chinese speakers.
+The model will be trained to generate text in both Thai and Chinese, with the Thai text being the primary language and the Chinese text being the translation. By achieving this goal, we hope to understand how neural language model works on multi-language corpus.
 
