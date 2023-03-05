@@ -228,7 +228,7 @@ def main():
 
         def generate_samples():
             print('Generating samples...')
-            context_tokens = data_sampler.sample(1)
+            context_tokens = enc.encode('<th>')
             all_text = []
             index = 0
             while index < args.sample_num:
